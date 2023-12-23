@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Afnan
-- 👀 I’m interested in Front-End Development and everything regarding web.
+- 👀 Front-End Development.
 - 🌱 I’m currently learning web development tools and frameworks.  
 - 📫 How to reach me afnanmatari0@gmail.com
 
