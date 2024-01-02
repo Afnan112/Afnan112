@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Afnan
 - 👀 Front-End Development.
-- 🌱 I’m currently learning web development tools and frameworks.  
 - 📫 How to reach me afnanmatari0@gmail.com
 
 
