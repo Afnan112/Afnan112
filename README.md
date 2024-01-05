@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Afnan
-- 👀 Front-End Development.
+- 👀 Front-End Development and programmer.
 - 📫 How to reach me afnanmatari0@gmail.com
 
 
