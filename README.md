@@ -21,6 +21,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Afnan112&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
