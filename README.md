@@ -4,7 +4,7 @@
 
 👩🏻‍💻 Computer Science sharing about my journey and learning in tech<br/>
 ☁️ Currently learning about Cloud Computing and Amazon Web Services (AWS)<br/>.
-📫 How to reach me afnanmatari0@gmail.com
+📭 How to reach me afnanmatari0@gmail.com
 
 
 # 💻 Tech Stack
