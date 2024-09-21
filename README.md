@@ -1,6 +1,6 @@
 ### Hi, I'm Afnan
 
-- 👋 Hi, I’m Afnan
+
 - 👀 Software Developer.
 - 📫 How to reach me afnanmatari0@gmail.com
 
