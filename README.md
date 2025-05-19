@@ -12,7 +12,7 @@ I’m a passionate Software Developer specializing in backend development with P
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git" /> -->
 </p>
 
 ## 🚀 Projects
@@ -20,6 +20,10 @@ I’m a passionate Software Developer specializing in backend development with P
 ### 🗓️ [Event Planner - Backend](https://github.com/Afnan112/django-event-planner-backend)
 A robust backend system for an event planning app that lets users create events, register attendance, and add notes.  
 Technologies: Python, Django, Django REST Framework, PostgreSQL, JWT Authentication.
+
+### 🗓️ [Event Planner - Frontend](https://github.com/Afnan112/react-event-planner-frontend.git)
+A user-friendly React frontend for managing events, attendance, and notes through an intuitive interface connected to the Django backend.
+Technologies: React, JavaScript, Vite, Axios, React Router DOM.
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Afnan112&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
