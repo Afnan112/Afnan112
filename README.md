@@ -25,6 +25,24 @@ Technologies: Python, Django, Django REST Framework, PostgreSQL, JWT Authenticat
 A user-friendly React frontend for managing events, attendance, and notes through an intuitive interface connected to the Django backend.
 Technologies: React, JavaScript, Vite, Axios, React Router DOM.
 
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afnan112&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_border=false)
+
+---
+
+# 🛠️ Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan112&layout=compact&theme=radical&hide_border=false)
+
+---
+
+# 📅 GitHub Contribution Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Afnan112&theme=radical&hide_border=false)
+
+---
 # 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afnan112&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
