@@ -2,13 +2,6 @@
 
 I’m a passionate Software Developer specializing in backend development with Python and Django. I enjoy building scalable, efficient applications and creating solutions that simplify complex problems. I’m continuously learning and improving my skills in full-stack development, with experience working on REST APIs and ReactJS frontends. I’m eager to contribute to impactful projects and collaborate with communities that value growth and innovation.
 
-## A passionate software developer.<br/>
-
-👩🏻‍💻 Computer Science sharing about my journey and learning in tech<br/>
-☁️ Currently learning about Cloud Computing and Amazon Web Services (AWS)<br/>.
-📭 How to reach me afnanmatari0@gmail.com
-
-
 ## ⚙️ Tools & Technologies
 
 <p align="center">
@@ -21,6 +14,19 @@ I’m a passionate Software Developer specializing in backend development with P
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git" />
 </p>
+
+## 🚀 Projects
+
+### Event Planner Backend
+A backend API for event management with user authentication and attendance tracking.
+
+**Technologies:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />
+
+🔗 [GitHub Repo](https://github.com/Afnan112/django-event-planner-backend)
 
 
 # 📊 GitHub Stats
