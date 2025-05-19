@@ -1,5 +1,7 @@
 ### Hi, I'm Afnan👋🏼👩🏻‍💻
 
+I’m a passionate Software Developer specializing in backend development with Python and Django. I enjoy building scalable, efficient applications and creating solutions that simplify complex problems. I’m continuously learning and improving my skills in full-stack development, with experience working on REST APIs and ReactJS frontends. I’m eager to contribute to impactful projects and collaborate with communities that value growth and innovation.
+
 ## A passionate software developer.<br/>
 
 👩🏻‍💻 Computer Science sharing about my journey and learning in tech<br/>
