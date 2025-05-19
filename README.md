@@ -17,11 +17,9 @@ I’m a passionate Software Developer specializing in backend development with P
 
 ## 🚀 Projects
 
-###  [Event Planner - Backend](https://github.com/Afnan112/django-event-planner-backend)
+### 🗓️ [Event Planner - Backend](https://github.com/Afnan112/django-event-planner-backend)
 A robust backend system for an event planning app that lets users create events, register attendance, and add notes.  
 Technologies: Python, Django, Django REST Framework, PostgreSQL, JWT Authentication.
-
-🔗 [Event Planner - Backend](https://github.com/Afnan112/django-event-planner-backend)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Afnan112&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
