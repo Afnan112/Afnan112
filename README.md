@@ -26,5 +26,6 @@ A user-friendly React frontend for managing events, attendance, and notes throug
 Technologies: React, JavaScript, Vite, Axios, React Router DOM.
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Afnan112&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afnan112&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
 
