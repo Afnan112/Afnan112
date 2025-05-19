@@ -41,6 +41,5 @@ Technologies: React, JavaScript, Vite, Axios, React Router DOM.
 ## 📭 Contact
 
 You can reach me at:  
-**Email:** afnanmatari0@gmail.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/afnan-matari/)  
-
+📧 afnanmatari0@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/afnan-matari/)
