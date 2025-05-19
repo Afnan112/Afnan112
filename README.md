@@ -38,10 +38,5 @@ Technologies: React, JavaScript, Vite, Axios, React Router DOM.
 
 ---
 
-# 📅 GitHub Contribution Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Afnan112&theme=radical&hide_border=false)
-
----
 
 
