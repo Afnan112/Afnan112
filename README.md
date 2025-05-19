@@ -1,4 +1,4 @@
-### Hi, I'm Afnan
+### Hi, I'm Afnan👋🏼👩🏻‍💻
 
 ## A passionate software developer.<br/>
 
