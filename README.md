@@ -28,6 +28,8 @@ Technologies: React, JavaScript, Vite, Axios, React Router DOM.
 ### 📝 [To-Do List](https://github.com/Afnan112/todo-app-console.git)
 A simple console-based ToDo list application written in Python. This app allows users to manage daily tasks with options to add, view, complete, and delete tasks. Tasks are saved and loaded using a CSV file, making it persistent between sessions.
 
+### 🏦 [Banking](https://github.com/Afnan112/bank-project.git)
+Developed a console-based banking system in Python, utilizing CSV files for persistent data storage. Implemented core functionalities including deposits, withdrawals, transfers, and transaction history tracking.
 
 # 📊 GitHub Stats
 
