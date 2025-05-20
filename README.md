@@ -25,6 +25,9 @@ Technologies: Python, Django, Django REST Framework, PostgreSQL, JWT Authenticat
 A user-friendly React frontend for managing events, attendance, and notes through an intuitive interface connected to the Django backend.
 Technologies: React, JavaScript, Vite, Axios, React Router DOM.
 
+### 🗓️ [To-Do List](https://github.com/Afnan112/todo-app-console.git)
+A simple console-based ToDo list application written in Python. This app allows users to manage daily tasks with options to add, view, complete, and delete tasks. Tasks are saved and loaded using a CSV file, making it persistent between sessions.
+
 
 # 📊 GitHub Stats
 
